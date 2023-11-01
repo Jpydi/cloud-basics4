@@ -7,7 +7,7 @@ Parameters:
 
   GitHubOwner:
     Type: String
-    Default: jpydi #replace with your github username
+    Default: Jpydi #replace with your github username
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
